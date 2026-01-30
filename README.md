@@ -27,9 +27,9 @@ This is a **personal project** exploring modern mobile development patterns, foc
 ## 📸 Screenshots
 
 <div style="display: flex; gap: 10px; overflow-x: auto;">
-  <img src="path/to/screenshot1.png" alt="Home Screen" width="200" />
-  <img src="path/to/screenshot2.png" alt="Upload Flow" width="200" />
-  <img src="path/to/screenshot3.png" alt="Verification" width="200" />
+  <img src="assets/screenshots/screen1.png" alt="Home Screen" width="200" />
+  <img src="assets/screenshots/screen2.png" alt="Upload Flow" width="200" />
+  <img src="assets/screenshots/screen3.png" alt="Verification" width="200" />
 </div>
 
 ## 🏁 Getting Started
