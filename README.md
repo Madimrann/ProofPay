@@ -16,6 +16,19 @@ This is a **personal project** exploring modern mobile development patterns, foc
 - **Dispute Timeline**: Track the lifecycle of a payment dispute from "Under Review" to "Resolved".
 - **Design System**: A custom-built UI library including `Cards`, `Buttons`, and `Inputs` tailored for a cohesive look.
 
+## 📱 System Workflow
+
+The ProofPay system is designed to handle payment disputes with a structured metadata-first approach:
+
+1.  **Case Initialization**: Users create a new "Case" for a specific transaction value.
+2.  **Evidence Capture**: Receipts are captured via camera or selected from the gallery.
+3.  **Intelligent Analysis (Simulated)**: The app simulates an OCR process to extract:
+    - Transaction Date (`Apr 24, 2024`)
+    - Amount (`$150.00`)
+    - Recipient (`Sarah Tan`)
+4.  **Verification Loop**: The user validates the extracted data against the claim.
+5.  **Immutable Timeline**: Once verified, the proof is hashed into a visual timeline, tracking the status from "Under Review" to "Resolved".
+
 ## 🛠️ Tech Stack
 
 - **Framework**: React Native (Expo Go)
