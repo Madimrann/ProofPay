@@ -1,5 +1,9 @@
 # ProofPay 🧾
 
+> [!NOTE]
+> **Status: Personal Project**
+> This is a personal project created for experimentation and learning.
+
 ProofPay is a mobile application designed to resolve peer-to-peer payment disputes by providing a streamlined interface for uploading, verifying, and tracking transaction receipts. Built with **React Native** and **Expo**, it features a premium design system and a focus on user trust.
 
 ## 🚀 Overview
